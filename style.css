@@ -1,0 +1,43 @@
+
+.Box {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+
+
+
+
+}
+
+.index{
+    background-image: url(./venom/e4fa371863aa98cfd0ae7cebdcdf69e5.png);
+    background-size: cover;
+
+}
+
+.Box2 {
+    border: 1px solid white;
+
+    background-color: rgb(138, 116, 116);
+    width: 200px;
+    height: 200px;
+    background-attachment: fixed;
+    margin-left: 150px;
+    background-image: url(./venom/e4fa371863aa98cfd0ae7cebdcdf69e5.png);
+    background-image: cover;
+    background-position: 120px;
+    
+
+
+}
+
+.Box3 {
+    background-color: blueviolet;
+    width: 200px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 30px;
+ 
+
+}
